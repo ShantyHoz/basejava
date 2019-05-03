@@ -10,8 +10,8 @@
 - <a href="http://easy-code.ru/lesson/local-anonymous-nested-classes-java">Локальные и анонимные классы</a>. Comparator
 
 ## Новое в Java 8.
-- <a href="http://devcolibri.com/4137#t2">Lambda выражения. Default методы для Interface. </a>
-- <a href="http://devcolibri.com/4274#t9">Встроенные функциональные интерфейсы.</a>
+- <a href="https://devcolibri.com/java-8-killer-features-%d1%87%d0%b0%d1%81%d1%82%d1%8c-1/">Lambda выражения. Default методы для Interface. </a>
+- <a href="https://devcolibri.com/java-8-killer-features-%d1%87%d0%b0%d1%81%d1%82%d1%8c-2/">Встроенные функциональные интерфейсы.</a>
 
 ## Домашнее задание
 - Сделать рефакторинг тестов: `saveOverflow` должно быть только для Array реализаций.
