@@ -7,6 +7,7 @@
 - <a href="http://www.quizful.net/post/java-generics-tutorial">Дженерики (Java, обучающая статья)</a>
 - <a href="http://developer.alexanderklimov.ru/android/java/generic.php">Обобщения (Generic)</a>
 - <a href="http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html">Ограничения.</a>
+- <a href="https://coursehunters.net/course/java-generics">hexlet. Generics</a>
 
 ## Логирование
 -  <a href="https://logging.apache.org/">Log4J (Apache logging)</a>
