@@ -15,6 +15,10 @@
 - <a href="https://habrahabr.ru/post/130195/">Логирование в Java / quick start</a>
 - <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
 - <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
+my link:
+- <a href="https://examples.javacodegeeks.com/enterprise-java/log4j/log4j-2-rollingfileappender-example/">Log4j 2 RollingFileAppender example</a>
+- <a href="https://logging.apache.org/log4j/2.x/manual/configuration.html#XML">logging.apache.org/log4j/ Configuration</a>
+
 
 ## Синглетон, Enum
 - <a href="https://ru.wikipedia.org/wiki/Одиночка_(шаблон_проектирования)">Одиночка (шаблон проектирования)</a>
